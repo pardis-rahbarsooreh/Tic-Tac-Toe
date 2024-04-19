@@ -1,5 +1,5 @@
 # Tic Tac Toe agent
-In this project, me and one of my teammates have designed a tic tac toe agent using the Python's [gymnasium](https://pypi.org/project/gymnasium/) library. The **Function Approximation** method is used to learn the weight of a set of features for this game. 
+In this project, me and my teammate @behkamfallah have designed a tic tac toe agent using the Python's [gymnasium](https://pypi.org/project/gymnasium/) library. The **Function Approximation** method is used to learn the weight of a set of features for this game. 
 
 
 ### Important Notes
@@ -16,4 +16,4 @@ In this project, me and one of my teammates have designed a tic tac toe agent us
 
 
 
-P.S. This is a project done in a university course *Reinforcement Learning* in the winter semester 2023/2024 at Saarland University under supervision of Prof. Verena Wolf and her team. Therefore, the notebook is in the Exercise format. All the related information on how much of the project is given by the professor and how much is done by me and my teammate is already explained in the notebook.
+P.S. This is a project done in a university course *Reinforcement Learning* in the winter semester 2023/2024 at Saarland University under supervision of Prof. Verena Wolf and her team. Therefore, the notebook is in the Exercise format. All the related information on how much of the project is given by the professor and how much is done by me and @behkamfallah is already explained in the notebook.
